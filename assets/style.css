@@ -1,0 +1,495 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+.usuario{
+    transform: translate(1470px, 15px);
+}
+
+.nombre{
+    transform: translate(1460px, 19px);
+}
+
+.navbarr{
+    width: 1500px;
+    margin-left: 3rem;
+}
+
+.asidebar{
+    height: 1000px;
+    width: 15%;
+    background-color: #737378;
+    position: relative;
+    transform: translateY(-1004px);
+}
+
+.aside:hover{
+    background-color: #BDBDBD;
+}
+
+.aside{
+    padding: 12px;
+    margin: 5px 0;
+}
+
+.subtitulito{
+    background-color: #E3E3E3;
+    width: 2000px;
+    height: 1000px;
+    margin-left: 1.5rem;
+
+}
+
+.administracion{
+    transform: translate(320px, 10px);
+    font-size:20px;
+    color:  #2EA2DC;
+    padding: 20px;
+}
+
+.tuki{
+    transform: translate(330px, 30px);
+    font-size:20px;
+    color: black;
+}
+
+.menu{
+    color: white;
+    margin-left: 1.5rem;
+}
+
+
+.btn-registro {
+    transform: translate(1720px, -20px);
+    border: 1px solid #009DE0;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    color: #009CDE;
+    font-size:16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.btn-registro i{
+    font-weight: bold;
+}
+
+
+.section-4{
+    width: 1547px;
+    height: 160px;
+    transform: translateX(317px);
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+
+.infoMateria{
+    color: rgb(12, 204, 250);
+}
+
+
+.labelMateria1{
+    padding:12px 0 0 0;
+    font-size: 20px;
+}
+
+.labelMateria2{
+    padding:12px 0 0 0;
+    font-size: 20px;
+    transform: translate(10px, 0px);
+}
+
+.labelMateria3{
+    transform: translate(18px, 0px);
+    padding:12px 10px 0 0;
+    font-size: 20px;
+}
+
+.labelMateria4{
+    padding:12px 10px 0 0;
+    font-size: 20px;
+}
+
+.select-4{
+    color: #424242;
+    font-size: 17px;
+    padding-right:35px;
+    margin-right: 20px;
+    border-radius: 3px;
+    height: 44px;
+    cursor: pointer;
+}
+
+.select-3{
+    color: #424242;
+    font-size: 17px;
+    margin-right: 10px;
+    padding-right: 240px;
+    border-radius: 3px;
+    height: 44px;
+    cursor: pointer;
+
+}
+
+.select-2{
+    color: #424242;
+    font-size: 17px;
+    padding-right: 140px;
+    margin-left: 10px;
+    border-radius: 3px;
+    height: 44px;
+    cursor: pointer;
+}
+
+.select-1{
+    color: #424242;
+    font-size: 17px;
+    padding-right:35px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 3px;
+    height: 44px;
+    cursor: pointer;
+}
+
+.estu{
+    width: 1547px;
+    height: 565px;
+    transform: translate(317px, -720px);
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 1.5rem;
+
+}
+
+.tituloEstudiantes{
+    transform: translate(37px, 20px);
+    font-size:24px;
+    color: rgb(12, 204, 250);
+}
+
+.tituloResultados{
+    transform: translate(37px, 20px);
+    font-size:24px;
+    color: black;
+}
+
+.labelEstudiante{
+    padding:12px 0 0 0;
+    font-size: 20px;
+    transform: translateX(3%);
+
+}
+
+.labelCodigoEstudiante {
+    padding: 5px 0 0 0;
+    font-size: 20px;
+    transform: translateX(6%);
+
+}
+
+.selectEstudiante{
+    color: #424242;
+    font-size: 17px;
+    padding-right: 140px;
+    margin-left: 10px;
+    border-radius: 3px;
+    height: 44px;
+    cursor: pointer;
+}
+
+.selectCodigo{
+    color: #424242;
+    font-size: 17px;
+    padding-right:120px;
+    margin-left: 20px;
+    border-radius: 3px;
+    height: 44px;
+    cursor: pointer;
+}
+
+.loal{
+    transform: translateY(30px);
+    margin-left: 28px;
+}
+
+.codigoEstudiante{
+    transform: translateY(6px);
+}
+
+.btnBuscar{
+    text-decoration: none;
+    margin-bottom: 100px;
+    background-color: #2b80da;
+    color:white;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    padding: 11px 35px;
+    margin-top: 10px;
+    font-size: 15px;
+    transform: translate(30px, 31px);
+}
+
+.limpiarFiltro{
+    transform: translate(60px, 50px);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.section-6{
+    width: 1547px;
+    height: 600px;
+    transform: translate(317px, -560px);
+    font-size: 23px;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 1.5rem;
+}
+
+.section-7{
+    width: 1547px;
+    height: 600px;
+    transform: translate(317px, -655px);
+    font-size: 23px;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 1.5rem;
+}
+
+
+.tabla1{
+    border-radius: 6px;
+    transform: translate(35px, 15px);
+    background-color: #016691;
+    width: 1490px;
+    border: 1px solid #d3d3d3;
+    font-size: 19px;
+
+}
+
+.tr{
+    color: white;
+}
+
+.trCodigo {
+    height: 60px;
+    transform: translateX(30px);
+
+}
+
+.trEstudiante {
+    height: 60px;
+    transform: translateX(70px);
+}
+
+.trGrado{
+    height: 60px;
+    transform: translateX(5px);
+}
+
+.trGrupo{
+    height: 60px;
+    transform: translateX(40px);
+}
+
+.trEstado{
+    height: 60px;
+    transform: translateX(100px);
+}
+
+.trNota{
+    height: 60px;
+    transform: translateX(100px);
+}
+
+.tr1, .tr3, .tr5{
+    border-radius: 6px;
+    background-color: #ffffff;
+    width: 1490px;
+    height: 60px;
+
+}
+
+.tr2, .tr4{
+    background-color: #ffffff;
+    height: 60px;
+}
+
+.option{
+    font-size: 19px;
+    height: 40px;
+    width:  200px;
+    color: #424242;
+    border-radius: 4px;
+}
+
+.input{
+    height: 40px;
+    width:  200px;
+    border-radius: 3px;
+    border: 1px solid #656565;
+}
+
+.botones{
+    transform: translate(1275px, 25px);
+}
+
+.btnGuardar{
+    text-decoration: none;
+    margin-bottom: 100px;
+    background-color: #2b80da;
+    color:white;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    padding: 11px 35px;
+    margin-top: 10px;
+    font-size: 15px;
+    transform: translate(8px, 31px);
+}
+
+.btnCancelar{
+    text-decoration: none;
+    margin-bottom: 100px;
+    background-color: white;
+    color: #2b80da;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 1px solid #2b80da;
+    padding: 11px 35px;
+    margin-top: 10px;
+    font-size: 15px;
+    transform: translate(-10px, 31px);
+}
+
+.materias{
+    color: black;
+}
+
+.section-9{
+    width: 1547px;
+    height: 160px;
+    transform: translateX(317px);
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+
+.trMateria{
+    height: 60px;
+    transform: translateX(90px);
+}
+
+.trProfesor{
+    height: 60px;
+    transform: translateX(130px);
+}
+
+.trGrupo2{
+    height: 60px;
+    transform: translateX(30px);
+}
+
+.trAcciones{
+    height: 60px;
+    transform: translateX(75px);
+}
+
+.hide{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #656565;
+    border-radius: 8px;
+    align-items: center;
+    padding: 1px 0 0 5px;
+    margin: 10px;
+
+}
+
+.show{
+    width: 30px;
+    height: 30px;
+    border: 2px solid #656565;
+    border-radius: 8px;
+    align-items: center;
+    padding: 1px 0 0 5px;
+    margin: 10px;
+}
+
+.hide:hover{
+    transition: 0.9s;
+    background-color: #ababab;
+}
+
+.show:hover{
+    transition: 0.9s;
+    background-color: #ababab;
+}
+
+.imgShow{
+    transform: translate(1px, -2px);
+
+}
+
+.section-10{
+    width: 500px;
+    height: 250px;
+    transform: translate(150%, 150%);
+    font-size: 23px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px 40px;
+}
+
+.eliminarMateria{
+    border-bottom: 1px solid #919191;
+}
+
+.eliminarText{
+    padding-top: 20px;
+}
+
+
+
+.btnNo{
+    text-decoration: none;
+    margin-bottom: 100px;
+    background-color: #2b80da;
+    color:white;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    padding: 11px 35px;
+    margin-top: 10px;
+    font-size: 15px;
+    transform: translate(8px, 31px);
+}
+
+.btnSi{
+    text-decoration: none;
+    margin-bottom: 100px;
+    background-color: white;
+    color: #2b80da;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 1px solid #2b80da;
+    padding: 11px 35px;
+    margin-top: 10px;
+    font-size: 15px;
+    transform: translate(-10px, 31px);
+}
+
+.eliminarBotones{
+    transform: translate(170px, -20px);
+}
+
+.close{
+    transform: translate(90px, -5px);
+}
